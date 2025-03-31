@@ -28,5 +28,6 @@ Sou apaixonado por tecnologia e programação, sempre buscando aprender e aprimo
 </br>
 🚀 Vamos aprender e evoluir juntos!
 </br>
+</br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aqtech-BEL&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Albéres Queiroz stats](https://github-readme-stats.vercel.app/api?username=Aqtech-BEL&show_icons=true&theme=transparent&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
