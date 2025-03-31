@@ -1,6 +1,6 @@
 👋 Olá, eu sou Albéres Queiroz!
 </br>
-MM∴IIr∴C∴T∴M∴R∴
+MM∴IIr∴C∴T∴M∴RR∴
 </br>
 </br>
 💻 Estudante de Licenciatura em Computação (IFPE) e Análise e Desenvolvimento de Sistemas (Unicesumar)
@@ -28,4 +28,5 @@ Sou apaixonado por tecnologia e programação, sempre buscando aprender e aprimo
 </br>
 🚀 Vamos aprender e evoluir juntos!
 </br>
-![Albéres Queiroz stats](https://github-readme-stats.vercel.app/api?username=Aqtech-BEL&show_icons=true&theme=dark)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aqtech-BEL&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
