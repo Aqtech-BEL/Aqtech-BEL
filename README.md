@@ -28,8 +28,4 @@ Sou apaixonado por tecnologia e programação, sempre buscando aprender e aprimo
 </br>
 🚀 Vamos aprender e evoluir juntos!
 </br>
-[![Albéres Queiroz stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Aqtech-BEL&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
+[![Albéres Queiroz stats](https://github-readme-stats.vercel.app/api?username=Aqtech-BEL&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
