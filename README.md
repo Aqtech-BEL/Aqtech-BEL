@@ -28,4 +28,4 @@ Sou apaixonado por tecnologia e programação, sempre buscando aprender e aprimo
 </br>
 🚀 Vamos aprender e evoluir juntos!
 </br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Aqtech-BEL&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+![Albéres Queiroz stats](https://github-readme-stats.vercel.app/api?username=Aqtech-BEL&show_icons=true&theme=dark)
